@@ -3,6 +3,8 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
+@import url(http://fonts.googleapis.com/earlyaccess/nanumpenscript.css);
 body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
@@ -67,6 +69,7 @@ hr.star-primary:after {
   margin: 0 auto;
 }
 header {
+  font-family: Nanum Gothic Coding;
   text-align: center;
 }
 header .container {
@@ -176,7 +179,7 @@ section {
 }
 section h2 {
   margin: 0;
-  font-size: 3em;
+  font-size: 2em;
 }
 section.success {
   background: #18BC9C;
@@ -191,8 +194,8 @@ section.success {
   }
 }
 #about p {
-  font-size: 17px;
-  font-family: 'Godo';
+  font-size: 24px;
+  font-family: Nanum Pen Script;
   font-style: normal;
   font-weight: 400;
 }
